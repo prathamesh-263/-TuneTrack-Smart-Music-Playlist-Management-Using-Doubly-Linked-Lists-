@@ -1,1 +1,1 @@
-# -TuneTrack-Smart-Music-Playlist-Management-Using-Doubly-Linked-Lists-
+# TuneTrack-Smart Music Playlist Management Using Doubly Linked Lists.
